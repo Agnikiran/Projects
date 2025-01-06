@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275565731913",
+    "project_id": "twit-9afc1",
+    "storage_bucket": "twit-9afc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275565731913:android:9137b0aaf6d3d6741e1f98",
+        "android_client_info": {
+          "package_name": "com.example.twit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIkfQRG8CEdewN2uBBYrOvxIy87TX6Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
